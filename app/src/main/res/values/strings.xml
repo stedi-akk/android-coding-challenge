@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Coding Challenge</string>
+    <string name="available_shifts">Available shifts:</string>
+    <string name="at">at</string>
+    <string name="start">Start time:</string>
+    <string name="end">End time:</string>
+    <string name="retry">Retry</string>
+    <string name="description">Description:</string>
+    <string name="generic_shift_description">%1$s is looking for %2$s. %3$s skill is required for the candidate.\n\nFind more at https://www.shiftkey.com/</string>
 </resources>

@@ -1,0 +1,2 @@
+Generally speaking, it would be much better if the source code would be split by modules, and not just packages.
+But because there is little code here and the task has time restrictions, I decided to go with packages. Their names would represent modules names.
